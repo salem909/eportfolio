@@ -1212,7 +1212,7 @@ input, select, textarea {
         	position: absolute;
         	left: 50%;
         	top: 0;
-        	height: 320px; /* You can tweak this height */
+        	height: 500px; /* You can tweak this height */
         	width: 1px;
         	background: rgba(255,255,255,0.25);
         	z-index: 0;
